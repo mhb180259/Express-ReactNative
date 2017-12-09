@@ -1,6 +1,6 @@
-
+./.ideas
 service/node_modules/
-service/ideas
+service/.ideas
 
 toilet/node_modules/
-toilet/ideas
+toilet/.ideas
